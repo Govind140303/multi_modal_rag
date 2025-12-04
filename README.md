@@ -1,6 +1,9 @@
 # multi_modal_rag
 Local RAG — Document QA Demo
 
+This project lets you ask questions about a long PDF and instantly get the most relevant answers.
+It works by breaking the document into chunks, generating embeddings, building a FAISS vector index, and using a Streamlit app to search and display the best-matching passages.
+
 
 HOW TO USE IT
 
